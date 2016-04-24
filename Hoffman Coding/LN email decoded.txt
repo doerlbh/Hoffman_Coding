@@ -1,0 +1,28 @@
+Patch Processor Inquiry (Baihan Lin, 1360521)
+-----------------------------------------
+Dear Helene!
+
+Good morning!
+Thank you for giving us a wonderful quarter of lectures conveying not only the skills and knowledge but also your passion and love into computer science and teaching! Hope you continue what you love even if you leave Seattle! We will all miss you!  
+
+I am Baihan Lin, a first year student majoring in Psychology and Neurobiology who was in your CSE 143 this quarter. Although not getting the interview opportunity of CSE 14x TA  (perhaps due to lack of any score yet, AP for 142?? and too many excellent applicants), your lectures make me feel the power of wide application in computer science. Although in the start of the quarter I emailed you about my sadness about the time conflict of exploration session, but I still make it to my favorite one on Artificial Intelligence machine learning. I even bought Godel, Escher, Bach and GEB will be my summer reading.
+
+What fascinates me at first about computer science is her wide application and crucial role in many research areas. I got introduced to C in seventh grade, and thereafter fell in love into computer science. After delving into C, C++ and Java, when I was working in BGI (Beijing Genomics Institute, the largest sequencing institute in the world), I was doing bioInfomatic analysis with Perl. The deep CS background of my colleagues there really showed to me the power and beauty of CS. 
+
+Entering UW, your CSE 143 programming in Java even bring me into a more splendid professional realm. And taken NBIO 303 Neuronal Computation with MatLab and taking NBIO 490 Computational Neuroscience, I am confident and breath-taken to carry on more computational task in my research interest with CS! All of this let me sprout my plan to apply for CSE major or computational neuroscience and neural engineering program.
+
+Thus this quarter, when working in Olavarria Lab, when trying to analyze the patchiness of ocular dominance column in V1 from brain cortices, I tried to use what I learned in CSE 143 to build a GUI program ?°„Patch Processor?°¿ which can automatically read all the targeted files in a folder, carry out all the inner calculation from various data structures and give out the result swiftly and neatly and output to txt and excel.
+
+Thank you especially for the warm words in the last lecture about your willingness to see our own project! They are the hugest encouragement for me! I know your advice will be very precious to me! I know you are very busy, so when you are free, would you mind have a look at my project ?°„Patch Processor?°¿? 
+
+Attached pdf is my thoughts on the building the entire program; Attached zip is my java codes and testing data you might need; Attached exe is the generated program you could run on a JRE environment (I tried to encapsulate it into the exe but failed, not knowing why); You may also try out the jar if exe fails (but be sure to put other jars in the same file??). The instruction on how to use the software can be found in readMe.txt and my youtube link https://www.youtube.com/watch?v=dGP5D3Q4aGc&feature=youtu.be (Note: it is an unlisted video, meaning only people with the link can watch, and it cannot be searched or found by any other individuals). 
+
+Please don??t laugh at me if the program is too childish??
+
+P.S. I also compress this email with Hoffman Coding, attached below, if you found it interesting.
+Have a wonderful summer with brand new start! 
+
+Looking forward to your reply, Thank you!
+Your student: Baihan Lin
+June 13, 2014
+
