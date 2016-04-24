@@ -1,4 +1,4 @@
-// Baihan Lin, 1360521, Section AP
+// Baihan Lin, 1360521, Section AP, June 2014
 // Prof: Helene Martin, TA: Autumn Johnson
 // CSE 143, HW 8: Huffman Coding
 
